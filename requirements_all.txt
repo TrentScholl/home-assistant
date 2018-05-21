@@ -1392,3 +1392,8 @@ zigpy-xbee==0.1.1
 
 # homeassistant.components.zha
 zigpy==0.1.0
+
+# homeassistant.components.tts.google_cloud
+grpcio==1.11.0
+google-api-core==1.1.1
+google-cloud-texttospeech==0.1.0
